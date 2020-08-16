@@ -1,2 +1,2 @@
-Public void test(){
+Public void testing(){
 }
